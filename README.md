@@ -1,5 +1,4 @@
 # hexapod-walking
 Hexapod Walking Spider 
 
-
-![hexapod](https://github.com/user-attachments/assets/5bf16fce-89a6-4008-9aa3-e1732b8b16fa)
+https://github.com/user-attachments/assets/7f083b59-be81-4e3a-9e3a-fd2db07ef828
